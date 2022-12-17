@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/adult.contents.fc2.com.ico",
     "slug": "fc-2",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.84%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 2896,
     "timeDay": 11614,
     "timeWeek": 4733,
     "timeMonth": 2896,
     "timeYear": 2896,
     "dailyMinutesDown": {
-      "2022-12-17": 40
+      "2022-12-17": 33
     }
   },
   {
@@ -96,18 +96,20 @@
     "url": "https://jp.pornhub.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jp.pornhub.com.ico",
     "slug": "pornhub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2739,
-    "timeDay": 2138,
-    "timeWeek": 2853,
-    "timeMonth": 2739,
-    "timeYear": 2739,
-    "dailyMinutesDown": {}
+    "time": 2874,
+    "timeDay": 3928,
+    "timeWeek": 3073,
+    "timeMonth": 2874,
+    "timeYear": 2874,
+    "dailyMinutesDown": {
+      "2022-12-17": 0
+    }
   },
   {
     "name": "OtokoDB",
