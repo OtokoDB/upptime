@@ -96,19 +96,19 @@
     "url": "https://jp.pornhub.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jp.pornhub.com.ico",
     "slug": "pornhub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2874,
-    "timeDay": 3928,
-    "timeWeek": 3073,
-    "timeMonth": 2874,
-    "timeYear": 2874,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2837,
+    "timeDay": 3292,
+    "timeWeek": 2998,
+    "timeMonth": 2837,
+    "timeYear": 2837,
     "dailyMinutesDown": {
-      "2022-12-17": 0
+      "2022-12-17": 6
     }
   },
   {
