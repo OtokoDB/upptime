@@ -22,18 +22,20 @@
     "url": "https://www.dlsite.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dlsite.com.ico",
     "slug": "d-lsite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 428,
-    "timeWeek": 539,
-    "timeMonth": 626,
-    "timeYear": 626,
-    "dailyMinutesDown": {}
+    "time": 617,
+    "timeDay": 400,
+    "timeWeek": 518,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {
+      "2022-12-27": 0
+    }
   },
   {
     "name": "Fanza(Regional)",
