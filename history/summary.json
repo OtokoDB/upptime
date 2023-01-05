@@ -42,18 +42,20 @@
     "url": "https://www.dmm.co.jp/",
     "icon": "https://icons.duckduckgo.com/ip3/www.dmm.co.jp.ico",
     "slug": "fanza-regional",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2341,
-    "timeDay": 2293,
-    "timeWeek": 2165,
-    "timeMonth": 2349,
-    "timeYear": 2341,
-    "dailyMinutesDown": {}
+    "time": 2331,
+    "timeDay": 2119,
+    "timeWeek": 2138,
+    "timeMonth": 2337,
+    "timeYear": 2331,
+    "dailyMinutesDown": {
+      "2023-01-05": 0
+    }
   },
   {
     "name": "FC2",
