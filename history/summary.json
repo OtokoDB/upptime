@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1343,
-    "timeDay": 1356,
-    "timeWeek": 1215,
-    "timeMonth": 1290,
-    "timeYear": 1343,
+    "time": 1344,
+    "timeDay": 1360,
+    "timeWeek": 1234,
+    "timeMonth": 1293,
+    "timeYear": 1344,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
-    "time": 616,
-    "timeDay": 883,
-    "timeWeek": 679,
-    "timeMonth": 566,
-    "timeYear": 616,
+    "time": 611,
+    "timeDay": 629,
+    "timeWeek": 641,
+    "timeMonth": 561,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2022-12-27": 42
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 2372,
-    "timeDay": 4823,
-    "timeWeek": 2422,
-    "timeMonth": 2380,
-    "timeYear": 2372,
+    "time": 2377,
+    "timeDay": 3706,
+    "timeWeek": 2439,
+    "timeMonth": 2386,
+    "timeYear": 2377,
     "dailyMinutesDown": {
       "2023-01-05": 26
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 1635,
-    "timeDay": 729,
-    "timeWeek": 610,
-    "timeMonth": 1888,
-    "timeYear": 1635,
+    "time": 1615,
+    "timeDay": 739,
+    "timeWeek": 627,
+    "timeMonth": 1857,
+    "timeYear": 1615,
     "dailyMinutesDown": {
       "2022-12-17": 33
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1701,
-    "timeDay": 1799,
-    "timeWeek": 1751,
-    "timeMonth": 1686,
-    "timeYear": 1701,
+    "time": 1711,
+    "timeDay": 1940,
+    "timeWeek": 1792,
+    "timeMonth": 1698,
+    "timeYear": 1711,
     "dailyMinutesDown": {}
   },
   {
@@ -106,29 +106,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2843,
-    "timeDay": 2279,
-    "timeWeek": 2280,
-    "timeMonth": 2903,
-    "timeYear": 2843,
+    "time": 2848,
+    "timeDay": 2702,
+    "timeWeek": 2385,
+    "timeMonth": 2909,
+    "timeYear": 2848,
     "dailyMinutesDown": {}
   },
   {
     "name": "OtokoDB",
-    "url": "https://otokodb.vercel.app",
-    "icon": "https://icons.duckduckgo.com/ip3/otokodb.vercel.app.ico",
+    "url": "https://otoko.eu.org",
+    "icon": "https://icons.duckduckgo.com/ip3/otoko.eu.org.ico",
     "slug": "otoko-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 33,
-    "timeWeek": 229,
+    "time": 172,
+    "timeDay": 95,
+    "timeWeek": 220,
     "timeMonth": 172,
-    "timeYear": 173,
-    "dailyMinutesDown": {}
+    "timeYear": 172,
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   }
 ]
